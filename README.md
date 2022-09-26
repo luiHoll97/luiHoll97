@@ -25,7 +25,7 @@
 ### Contact Me
 
 - email: tech.luiholl@gmail.com
-- <a href= https://www.linkedin.com/in/luiholliday/> LinkedIn </a>
+- <a href= https://www.linkedin.com/in/lui-holliday/> LinkedIn </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=103056092)
 
