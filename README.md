@@ -10,24 +10,19 @@
 
 ### Here are a few of my recent projects...
 
-- <a href=https://linktodeployedapp/>Fullstack To Do List App</a> (PERN Stack) 👩🏻‍💻 
-- <a href=https://academy-maemastersdev-tv-shows.netlify.app/>TV Show Summaries Site</a> (React App) 👩🏻‍💻 
-- <a href=https://team2-dog-breed-voter.netlify.app/>Dog Breed Voter App</a> (PERN Stack using Socket.io)
+- <a href=https://favourite-dog-picker.netlify.app/>Fullstack Dog Voter App</a> (PERN Stack) 
 
 ### I'm currently building...
-- A simple calculator app using HTML, CSS and JS
-- A Worlde App, with a language
+- A Worlde App, with a language selector
 
 
 ### I'm thinking about building...
-
+- TBC !
 
 ### Contact Me
 
 - email: tech.luiholl@gmail.com
 - <a href= https://www.linkedin.com/in/lucien-holliday/> LinkedIn </a>
-
-![](https://hit.yhype.me/github/profile?user_id=103056092)
 
 <!--
 **luiHoll97/luiHoll97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
