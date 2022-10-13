@@ -10,14 +10,16 @@
 
 ### Here are a few of my recent projects...
 
-- <a href=https://favourite-dog-picker.netlify.app/>Fullstack Dog Voter App</a> (PERN Stack) 
+- <a href=https://favourite-dog-picker.netlify.app/>Fullstack Dog Voter</a> (PERN Stack) 
+- <a href=https://c5c2-study-resources.netlify.app/>Fullstack Resource Sharer</a> (PERN Stack) 
 
 ### I'm currently building...
-- A Worlde App, with a language selector
+- A Worlde App, with language selector and leaderboards
+- Touching up my CSS on a Tv Shows app
 
 
 ### I'm thinking about building...
-- TBC !
+- A language flashcard application using Next.js
 
 ### Contact Me
 
