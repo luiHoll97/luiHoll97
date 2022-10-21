@@ -2,7 +2,7 @@
 
 ### Lui Holliday
 
-👋 Trainee Software Enginering Scholar at <a href=https://academy.tech/>Academy</a> 
+👋 Trainee Software Engineer at <a href=https://academy.tech/>Academy</a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiHoll97&layout=compact)](https://github.com/luiHoll97/github-readme-stats)
 
