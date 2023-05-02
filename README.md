@@ -13,13 +13,14 @@
 - <a href=https://favourite-dog-picker.netlify.app/>Fullstack Dog Voter</a> (PERN Stack) 
 - <a href=https://c5c2-study-resources.netlify.app/>Fullstack Resource Sharer</a> (PERN Stack) 
 
-### I'm currently building...
-- A Worlde App, with language selector and leaderboards
-- Touching up my CSS on a Tv Shows app
+### I'm currently working on..
+- A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
+    - At current stage, we're configuring Docker for our project. 
+
 
 
 ### I'm thinking about building...
-- A language flashcard application using Next.js
+- An improved TripAdvisor
 
 ### Contact Me
 
