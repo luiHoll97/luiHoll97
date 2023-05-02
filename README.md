@@ -2,7 +2,7 @@
 
 ### Lui Holliday
 
-Software Engineer at <a href="https://sarasinandpartners.com/"/>Sarasin & Partners LLP</a> 
+Software Engineer at <a target="_blank" href="https://sarasinandpartners.com/"/>Sarasin & Partners LLP</a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiHoll97&layout=compact)](https://github.com/luiHoll97/github-readme-stats)
 
