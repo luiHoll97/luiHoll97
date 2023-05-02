@@ -8,10 +8,6 @@ Software Engineer at <a target="_blank" href="https://sarasinandpartners.com/"/>
 
 ![](https://komarev.com/ghpvc/?username=luiHoll97&color=ff69b4)
 
-### Here are a few of my recent projects...
-
-- <a href=https://favourite-dog-picker.netlify.app/>Fullstack Dog Voter</a> (PERN Stack) 
-- <a href=https://c5c2-study-resources.netlify.app/>Fullstack Resource Sharer</a> (PERN Stack) 
 
 ### I'm currently working on..
 - A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
