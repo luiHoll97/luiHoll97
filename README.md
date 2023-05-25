@@ -2,7 +2,7 @@
 
 ### Lui Holliday
 
-Software Engineer at <a target="_blank" href="https://sarasinandpartners.com/"/>Sarasin & Partners LLP</a> 
+Software Engineer currently doing some upskilling! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiHoll97&layout=compact)](https://github.com/luiHoll97/github-readme-stats)
 
@@ -10,14 +10,20 @@ Software Engineer at <a target="_blank" href="https://sarasinandpartners.com/"/>
 
 
 ### I'm currently working on..
+
+- A small app utilising firebase and chakra in react.
 - A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
     - At current stage, we're configuring Docker for our project. 
 
-
+### New techs I'm learning..
+- Firebase
+- Chakra UI
+- Immer
+- Docker
 
 ### I'm thinking about building...
-- An improved TripAdvisor
-
+- A memory game to practise some state management. 
+    - I'll add socket.io once finalised to make it 2 player
 ### Contact Me
 
 - email: tech.luiholl@gmail.com
