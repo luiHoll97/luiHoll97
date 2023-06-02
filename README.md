@@ -11,7 +11,7 @@ Software Engineer currently doing some upskilling!
 
 ### I'm currently working on..
 
-- A small app utilising firebase and chakra in react - [code](https://github.com/luiHoll97/fire-message)
+- A small app utilising firebase and chakra in react - [see the repo](https://github.com/luiHoll97/fire-message)
 - A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
     - At current stage, we're configuring Docker for our project. 
 
