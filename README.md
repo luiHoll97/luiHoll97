@@ -12,7 +12,7 @@ Software Engineer currently doing some upskilling!
 ### I'm currently working on..
 
 - A Cricket-scoring app that connects to firebase to store previous matches/teams/players - [see the repo](https://github.com/luiHoll97/cricket-scorer)
-- Some more practise on Redux thunks using the GNews API by Google - [see the repo](https://github.com/luiHoll97/redux-gnews-reader)
+- Some more practise on Redux thunks using the GNews API by Google - [see the repo](https://github.com/luiHoll97/redux-gnews-api)
 - A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
     - At current stage, we're configuring Docker for our project. 
 
