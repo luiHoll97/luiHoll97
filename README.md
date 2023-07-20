@@ -11,7 +11,8 @@ Software Engineer currently doing some upskilling!
 
 ### I'm currently working on..
 
-- A small app utilising firebase and chakra in react - [see the repo](https://github.com/luiHoll97/fire-message)
+- A Cricket-scoring app that connects to firebase to store previous matches/teams/players - [see the repo](https://github.com/luiHoll97/cricket-scorer)
+- Some more practise on Redux thunks using the GNews API by Google - [see the repo](https://github.com/luiHoll97/redux-gnews-reader)
 - A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
     - At current stage, we're configuring Docker for our project. 
 
@@ -22,6 +23,7 @@ Software Engineer currently doing some upskilling!
 - Docker
 
 ### I'm thinking about building...
+- Migrating the above cricket scorer to Redux. It currently uses React Context which in hindsight is a bit messy for the app size
 - A memory game to practise some state management. 
     - I'll add socket.io once finalised to make it 2 player
 ### Contact Me
