@@ -11,15 +11,13 @@ Software Engineer currently doing some upskilling!
 
 ### I'm currently working on..
 
-- A Cricket-scoring app that connects to firebase to store previous matches/teams/players - [see the repo](https://github.com/luiHoll97/cricket-scorer)
-- Some more practise on Redux thunks using the GNews API by Google - [see the repo](https://github.com/luiHoll97/redux-gnews-api)
-- A product with a friend! I cant reveal much, but it's a full-stack application using PERN, with React Native as our client portal.
-    - At current stage, we're configuring Docker for our project. 
+- A simple todo using convex for my backend/database
+- A Full-Stack Native Application (PERN) for a Kisok app. I also want to use React Native Paper for the UI. 
+  
 
 ### New techs I'm learning..
-- Firebase
-- Chakra UI
-- Immer
+- Convex
+- MobX
 - Docker
 
 ### I'm thinking about building...
