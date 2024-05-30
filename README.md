@@ -1,33 +1,31 @@
 
 
-### Lui Holliday
+### Hey 👋 
 
-Software Engineer currently doing some upskilling! 
+I'm Lui, a full stack Software Engineer currently working in the Biotechnology industry.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiHoll97&layout=compact)](https://github.com/luiHoll97/github-readme-stats)
+Originally trained in the PERN stack, I have since branched out to other techs to find where my interests lie within the pandoras box of software development. Currently, I want to keep developing my skills within PERN, whilst also incorporating more Python work to keep my OOP fresh.
 
-![](https://komarev.com/ghpvc/?username=luiHoll97&color=ff69b4)
+### Ongoing Projects
+- [Aprendo](https://pypi.org/project/aprendo/) - A lightweight python package for improving/quizzing spanish vocab
+- [fandanGO](https://pypi.org/project/fandanGO-aria/) - PYPI package for structural biology related metadata. Part of the EU project Fragment Screen 
 
+### My Next Project
+Through my work, I have spent time looking at software design. As a result, I now really want to create my own microservice project. I'm not bothered what it'll *do* at the moment, but the basic structure I'm aiming for is the following:
+- FE : React (Ts)
+- GQL gateway : Node (Ts) - make use of Apollo server
+- Microservice a-z : Python w/ FastAPI / Flask (I haven't quite decided yet)
+- DB : PSQL
 
-### I'm currently working on..
-
-- A simple todo using convex for my backend/database
-- A Full-Stack Native Application (PERN) for a Kisok app. I also want to use React Native Paper for the UI. 
-  
-
-### New techs I'm learning..
-- Convex
-- MobX
-- Docker
-
-### I'm thinking about building...
-- Migrating the above cricket scorer to Redux. It currently uses React Context which in hindsight is a bit messy for the app size
-- A memory game to practise some state management. 
-    - I'll add socket.io once finalised to make it 2 player
 ### Contact Me
 
 - email: tech.luiholl@gmail.com
 - <a href= https://www.linkedin.com/in/lucien-holliday/> LinkedIn </a>
+- <a href= https://luiholliday.netlify.app/> Check out my site </a>
+
+
+### Basic Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiHoll97&layout=compact)](https://github.com/luiHoll97/github-readme-stats)
 
 <!--
 **luiHoll97/luiHoll97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
