@@ -21,7 +21,7 @@ Through my work, I have spent time looking at software design. As a result, I no
 
 - email: tech.luiholl@gmail.com
 - <a href= https://www.linkedin.com/in/lucien-holliday/> LinkedIn </a>
-- <a href= https://luiholliday.netlify.app/> Check out my site </a>
+- <a href= https://luiholl.netlify.app/> Check out my site </a>
 
 
 ### Basic Stats
