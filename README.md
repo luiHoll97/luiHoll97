@@ -1,27 +1,17 @@
 
 
-### Hey 👋 
+### Lui Holliday 
 
-I'm Lui, a full stack Software Engineer currently working in the Biotechnology industry.
-
-Originally trained in the PERN stack, I have since branched out to other techs to find where my interests lie within the pandoras box of software development. Currently, I want to keep developing my skills within PERN, whilst also incorporating more Python work to keep my OOP fresh.
+Full stack Software Engineer currently working in the Biotechnology industry.
 
 ### Ongoing Projects
-- [Aprendo](https://pypi.org/project/aprendo/) - A lightweight python package for improving/quizzing spanish vocab
 - [fandanGO](https://pypi.org/project/fandanGO-aria/) - PYPI package for structural biology related metadata. Part of the EU project Fragment Screen 
-
-### My Next Project
-Through my work, I have spent time looking at software design. As a result, I now really want to create my own microservice project. I'm not bothered what it'll *do* at the moment, but the basic structure I'm aiming for is the following:
-- FE : React (Ts)
-- GQL gateway : Node (Ts) - make use of Apollo server
-- Microservice a-z : Python w/ FastAPI / Flask (I haven't quite decided yet)
-- DB : PSQL
 
 ### Contact Me
 
-- email: tech.luiholl@gmail.com
+- luiholliday@icloud.com
 - <a href= https://www.linkedin.com/in/lucien-holliday/> LinkedIn </a>
-- <a href= https://luiholl.netlify.app/> Check out my site </a>
+- <a href= https://luiholl.netlify.app/> Personal Site </a>
 
 
 ### Basic Stats
