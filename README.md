@@ -4,9 +4,6 @@
 
 Full stack Software Engineer currently working in the Biotechnology industry.
 
-### Ongoing Projects
-- [fandanGO](https://pypi.org/project/fandanGO-aria/) - PYPI package for structural biology related metadata. Part of the EU project Fragment Screen 
-
 ### Contact Me
 
 - luiholliday@icloud.com
